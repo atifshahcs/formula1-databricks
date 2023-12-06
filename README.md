@@ -1,5 +1,5 @@
 # formula1-databricks
-Formula1 projects consist of Formula 1 racing data from the 1950s till date, the dataset includes data about drivers, circuits, races,  countries, and races won by the drivers. 
+Formula1 projects consist of Formula 1 racing data from the 1950s till date, the dataset includes data about drivers, circuits, races,  countries, and races won by the drivers. The Formula1 data is collected from [Ergast API](https://ergast.com/mrd/db/)
 
 This project includes the data bricks notebooks and consists of the following folder.
 ## setup
